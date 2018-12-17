@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="usernempty">Username is empty</string>
+	<string name="usertoshort">Username is too short</string>
+	<string name="passempty">Password is empty</string>
+	<string name="passtoshort">Password is to short</string>
+	<string name="loginsucc">Log in succesful!</string>
+	<string name="loginfail">Login failed!</string>
+</resources>
